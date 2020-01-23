@@ -1,0 +1,300 @@
+PaperSize: A4
+Title: Présentation de l'étape 3 du Projet Tutoré par le groupe 4
+Presentation: "Aucun appareil électronique et aucun document n'est autorisé. Des points seront retirés en cas d'écriture illisible".
+Date: 13 décembre 2019
+DocumentModel: source.txt
+ShuffleQuestions: 1  
+ShuffleAnswers: 1  
+Code: 8
+MarkFormat: 20
+NameField:
+StudentIdField:
+MarkField:
+ManualDuplex:1
+SeparateAnswerSheet: 0
+AnswerSheetTitle:
+AnswerSheetPresentation:
+AnswerSheetDate:
+SingleSided: 1	
+AnswerSheetManualDuplex:
+DefaultScoringS: e=-1,v=0,p=-1,b=1,m=-1,d=0
+DefaultScoringM: e=-0.75,v=-0.25,p=-0.75,formula=(NBC/NB)-(NMC/NM)
+
+QuestionBlocks: 1
+NumberOfCopiesToCreate: 18
+#TypeOfCopies: FUSION
+
+#Intitulé du mot "Question" dans l'énoncé (non présent dans le sujet)
+#L-Question: Q.
+
+#Intitulé de Nom & Prénom dans le QCM (non présent dans le sujet)
+#L-Name: Ecrivez votre Nom 
+
+### Questions
+
+**{coeff=3} Quelles sont les 7 couleurs de l'arc en ciel?
++ Violet
+- Gris
+- Noir
++ Indigo
+- Fuschia
+- Rose
+- Kaki
+- Magenta
+- Marron
++ Bleu
+- Mauve
++ Vert
++ Jaune
+- Pourpre
+- Turquoise
+- Bronze
+- Argent
++ Orange
+- Cyan
++ Rouge
+- Aucune de ces réponses n'est correcte
+
+*{lines=1} Qui a découvert la décomposition de la lumière blanche?
+- N  
++ P    
++ TQP   
++ DP   
++ DDP   
++ Z 
+
+*{lines=1} Quelle est la couleur du cheval d'Henri IV? JUSTIFIEZ
+- N  
++ P    
++ TQP   
++ DP   
++ DDP   
++ Z 
+
+* En quelle année a t-on découvert la décomposition de la lumière blanche?
++ 1960
+- 1961
+- 1959
+- Aucune de ces réponses n'est correcte
+
+** De quelles couleurs est composé le célèbre système de codage informatique ?
++ Rouge
+- Rose
++ Vert
+- Violet
++ Bleu
+- Beige
+- Aucune de ces réponses n'est correcte
+
+#bloc 1 qt parmi 3
+((n=1
+*{lines=1,coeff=2} Que donne le mélange de lumière rouge et bleu?
+- N  
++ P      
++ Z 
+
+*{lines=1,coeff=2} Que donne le mélange de lumière vert et bleu?
+- N  
++ P      
++ Z 
+
+*{lines=1,coeff=2} Que donne le mélange de lumière rouge et vert?
+- N  
++ P      
++ Z 
+
+))
+**{coeff=2} Quelles sont les couleurs primaires du peintre?
++ Magenta
++ Cyan
++ Jaune
+- Aucune de ces réponses n'est correcte
+
+*{coeff=2} Quelle(s) couleur(s) sont des couleur(s) primaire(s) de la lumière?
+- Magenta
+- Cyan
+- Jaune
++ Aucune de ces réponses n'est correcte
+
+* Quelle sorte d'ondes utilise la radiographie?
+- Rayon Gamma
+- InfraRouge
+- UltraViolet
++ Rayon X
+- micro-ondes
+- Aucune de ces réponses n'est correcte
+
+*{lines=1} Qui a créé l'ampoule à Halogène?
+- N  
++ P     
++ DP     
++ Z 
+
+*{coeff=2} Quand a t-on créé l'ampoule à Halogène?
++ 1959
+- 1960
+- 1949
+- Aucune de ces réponses n'est correcte
+
+#bloc 2 qt parmi 3
+((n=2
+* Le visible est compris entre?
+- 40 et 80nm
++ 400 et 800nm
+- 4000 et 8000nm
+- Aucune de ces réponses n'est correcte
+
+* L'InfraRouge est compris entre?
++ 800nm et 1mm
+- 1mm et 2mm
+- 400nm et 800nm
+- Aucune de ces réponses n'est correcte
+
+* L'UltraViolet est compris entre?
+- 800nm et 1mm
+- 1mm et 2mm
+- 400nm et 800nm
++ Aucune de ces réponses n'est correcte
+
+))
+*{coeff=1.5} La couleur complémentaire du Cyan est?
++ Rouge
+- Vert
+- Bleu
+- Jaune
+- Magenta
+- Aucune de ces réponses n'est correcte
+
+*{coeff=1.5} La couleur complémentaire du Magenta est?
+- Rouge
+- Bleu
+- Jaune
++ Vert
+- Cyan
+- Aucune de ces réponses n'est correcte
+
+*{coeff=1.5} La couleur complémentaire du Jaune est?
+- Rouge
++ Bleu
+- Jaune
+- Vert
+- Cyan
+- Aucune de ces réponses n'est correcte
+
+*{lines=1} Est ce que la lumière noire existe? Justifiez
+- N  
++ P      
++ DP   
++ Z 
+
+**{coeff=2} Quelle(s) couleur(s) diffuse un objet cyan éclairé à la lumière blanche?
++ Vert
++ Bleu
+- Rouge 
+- Aucune de ces réponses n'est correcte
+
+* Quelle(s) couleur(s) diffuse un objet vert éclairé à la lumière blanche?
++ Vert
+- Bleu
+- Rouge 
+- Aucune de ces réponses n'est correcte
+
+* Quelle(s) couleur(s) diffuse un objet rouge éclairé à la lumière blanche?
+- Vert
+- Bleu
++ Rouge 
+- Aucune de ces réponses n'est correcte
+
+** Quelle(s) couleur(s) diffuse un objet magenta éclairé à la lumière blanche?
+- Vert
++ Bleu
++ Rouge 
+- Aucune de ces réponses n'est correcte
+
+* Quelle(s) couleur(s) diffuse un objet jaune éclairé à la lumière blanche?
+- Bleu
+- Rouge 
+- Jaune
++ Aucune de ces réponses n'est correcte
+
+#bloc 4 qt parmi 4 FROZEN donc ne doit^pas être mélangé bien que shuffleQuestion =1!!!
+((n=4 frozen
+* Le rouge est une couleur?
+- faux
++ vrai
+
+* Le bleu est une couleur?
+- faux
++ vrai
+
+* Le blouge est une couleur?
++ faux
+- vrai
+
+* Le noir est une couleur?
++ faux
+- vrai
+
+))
+
+### la suite des tests sont tiré du site : https://quizz.e-qcm.net/quizz/
+
+* Les Argentins aiment beaucoup boire :
++ le maté
+- le moka
+- la concagua
+- Aucune de ces réponses n'est correcte
+
+* Quel est l'acteur principal du film « Peut-être » de Cédric Klapisch ?
+- Guillaume Depardieu
++ Romain Duris
+- Albert Dupontel
+- Aucune de ces réponses n'est correcte
+
+* Que se disputent les joueurs de hockey sur glace ?
+- La ballette
+- Le piaf
++ Le palet
+- Aucune de ces réponses n'est correcte
+
+* Quelle est la capitale du Maroc ?
++ Rabat
+- Casablanca
+- Marrakech
+- Aucune de ces réponses n'est correcte
+
+* Quel sociologue internationalement reconnu nous a quitté en 2002 ?
++ Pierre Bourdieu
+- Claude Lévi-Strauss
+- Luc Ferry
+- Aucune de ces réponses n'est correcte
+
+* "Plutôt que de maudire l'obscurité mieux vaut allumer une chandelle". De qui est ce proverbe ? 
+- Lao-Tseu
++ Confucius
+- Albert Einstein
+- Aucune de ces réponses n'est correcte
+
+** Parmis ces quartiers, lesquels se situent à Londres, capital du Royaume-Uni et l'une des villes les plus connues de Grande Bretagne ?
++ Soho
+- Harlem
++ Covent Garden
++ Westminster
+- SoHo
+- Jamaica
++ Kensington
+- Aucune de ces réponses n'est correcte
+
+* Personne qui a le sentiment d'une communication à distance extra-sensorielle :
++ Un télépathe
+- Un homo-sensibilus
+- Un psychotique
+- Aucune de ces réponses n'est correcte
+
+** Quels hommes politiques sont à l'origine de la Fête de la Musique en France ?
++ Jack Lang
+- Nicolas Sarkozy
++ Maurice Fleuret
+- François Hollande
+- Aucune de ces réponses n'est correcte
+

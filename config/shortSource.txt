@@ -1,0 +1,171 @@
+PaperSize: A4
+Title: Présentation de l'étape 2 du Projet Tutoré par le groupe 4
+Presentation: Ceci est le descriptif de l'épreuve. Il s'agit de l'ensemble des règles et consignes à suivre afin de répondre correctement aux questions. Un exemple de consigne pourrait être : "Aucun appareil électronique et aucun document n'est autorisé. Des points seront retirés en cas d'écriture illisible".
+DocumentModel: source.txt
+ShuffleQuestions: 1  
+ShuffleAnswers: 1  
+Code: 8
+MarkFormat: 20
+SingleSided: 0	
+QuestionBlocks: 1
+ManualDuplex: 1
+
+### Questions
+
+** Quelles sont les 7 couleurs de l'arc en ciel?
++ Violet
+- Gris
+- Noir
++ Indigo
+- Fuschia
+- Rose
+- Kaki
+- Magenta
+- Marron
++ Bleu
+- Mauve
++ Vert
++ Jaune
+- Pourpre
+- Turquoise
+- Bronze
+- Argent
++ Orange
+- Cyan
++ Rouge
+
+*{lines=1} Qui a découvert la décomposition de la lumière blanche?
++ Ok
+- Erreur
+
+* En quelle année a t-on découvert la décomposition de la lumière blanche?
++ 1960
+- 1961
+- 1959
+
+** De quelles couleurs est composé le célèbre système de codage informatique ?
++ Rouge
+- Rose
++ Vert
+- Violet
++ Bleu
+- Beige
+
+#bloc 1 qt parmi 3
+((n=1
+*{lines=2,coeff=2} Que donne le mélange de lumière rouge et bleu?
++ Ok
+- Erreur
+
+*{lines=1,coeff=2} Que donne le mélange de lumière vert et bleu?
++ Ok
+- Erreur
+
+*{lines=3,coeff=2} Que donne le mélange de lumière rouge et vert?
++ Ok
+- Erreur
+
+))
+** Quelles sont les couleurs primaires du peintre?
++ Magenta
++ Cyan
++ Jaune
+- Aucune de ces réponses n'est correcte
+
+* Quelle(s) couleur(s) sont des couleur(s) primaire(s) de la lumière?
+- Magenta
+- Cyan
+- Jaune
++ Aucune de ces réponses n'est correcte
+
+* Quelle sorte d'ondes utilise la radiographie?
+- Rayon Gamma
+- InfraRouge
+- UltraViolet
++ Rayon X
+- micro-ondes
+
+*{lines=1} Qui a créé l'ampoule à Halogène?
++ Ok
+- Erreur
+
+*{coeff=2} Quand a t-on créé l'ampoule à Halogène?
++ 1959
+- 1960
+- 1949
+
+#bloc 1 qt parmi 3
+((n=1
+* Le visible est compris entre?
+- 40 et 80nm
++ 400 et 800nm
+- 4000 et 8000nm
+- Aucune de ces réponses n'est correcte
+
+* L'InfraRouge est compris entre?
++ 800nm et 1mm
+- 1mm et 2mm
+- 400nm et 800nm
+- Aucune de ces réponses n'est correcte
+
+* L'UltraViolet est compris entre?
+- 800nm et 1mm
+- 1mm et 2mm
+- 400nm et 800nm
++ Aucune de ces réponses n'est correcte
+
+))
+* La couleur complémentaire du Cyan est?
++ Rouge
+- Vert
+- Bleu
+- Jaune
+- Magenta
+
+* La couleur complémentaire du Magenta est?
+- Rouge
+- Bleu
+- Jaune
++ Vert
+- Cyan
+
+* La couleur complémentaire du Jaune est?
+- Rouge
++ Bleu
+- Jaune
+- Vert
+- Cyan
+
+*{lines=1} Est ce que la lumière noire existe?
++ Ok
+- Erreur
+
+** Quelle(s) couleur(s) diffuse un objet cyan éclairé à la lumière blanche?
++ Vert
++ Bleu
+- Rouge 
+- Aucune de ces réponses n'est correcte
+
+* Quelle(s) couleur(s) diffuse un objet vert éclairé à la lumière blanche?
++ Vert
+- Bleu
+- Rouge 
+- Aucune de ces réponses n'est correcte
+
+* Quelle(s) couleur(s) diffuse un objet rouge éclairé à la lumière blanche?
+- Vert
+- Bleu
++ Rouge 
+- Aucune de ces réponses n'est correcte
+
+** Quelle(s) couleur(s) diffuse un objet magenta éclairé à la lumière blanche?
+- Vert
++ Bleu
++ Rouge 
+- Aucune de ces réponses n'est correcte
+
+* Quelle(s) couleur(s) diffuse un objet jaune éclairé à la lumière blanche?
+- Bleu
+- Rouge 
+- Jaune
++ Aucune de ces réponses n'est correcte
